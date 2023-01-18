@@ -8,7 +8,7 @@
 
 ### Afternoon 13:00 - 16:15
 
-- Assignment
+- Assignment SPA DOM Traversing
 
 
 ### Resources
