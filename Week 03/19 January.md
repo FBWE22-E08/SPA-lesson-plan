@@ -2,11 +2,13 @@
 
 ### Morning 09:00 - 12:00
  
-- Intro SPA
-- DOM manipulation
+- Recap assignment
+- Window object
+- DOM Querying, Manipulating Traversing
 
 ### Afternoon 13:00 - 16:15
 
+- Assignment
 
 
 ### Resources
