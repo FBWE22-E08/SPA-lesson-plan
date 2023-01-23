@@ -2,6 +2,7 @@
 
 ### Morning 09:00 - 12:00
  
+- quick recap
 - DOM Events
 - adding and removing events
 - adding and removing classes
