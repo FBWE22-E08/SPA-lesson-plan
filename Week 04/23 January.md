@@ -14,7 +14,8 @@
 - [Browser-DynamicPills](https://classroom.github.com/a/dL6WY0Vr)
 
 ### Resources
-
-
+- [DOM events freeCodeCamp](https://www.freecodecamp.org/news/javascript-events-explained-in-simple-english/)
+- [element.addEventListener vs element.onclick](https://www.geeksforgeeks.org/difference-between-addeventlistener-and-onclick-in-javascript/)
+- [append vs appendChild](https://dev.to/ibn_abubakre/append-vs-appendchild-a4m)
 
 ### Recording
