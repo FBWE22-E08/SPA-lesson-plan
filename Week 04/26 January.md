@@ -11,7 +11,8 @@
     - Using 3rd part modules 
 
 ### Afternoon 13:00 - 16:15
-
+ 
+ - Assignment
 
 
 ### Resources
