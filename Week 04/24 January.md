@@ -14,6 +14,6 @@ exercise
 
 ### Resources
 
-
+- [Event prpagation](https://www.geeksforgeeks.org/what-is-event-propagation-capturing-bubbling/)
 
 ### Recording
