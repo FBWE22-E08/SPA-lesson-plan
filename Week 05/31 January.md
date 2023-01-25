@@ -2,6 +2,7 @@
 
 ### Morning 09:00 - 12:00
  
+ - Intro to JSON
  - try catch 
  - recap promises & async await
 
