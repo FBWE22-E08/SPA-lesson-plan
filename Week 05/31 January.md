@@ -2,8 +2,8 @@
 
 ### Morning 09:00 - 12:00
  
- -try catch 
- -recap promises & async await
+ - try catch 
+ - recap promises & async await
 
 
 ### Afternoon 13:00 - 16:15
