@@ -4,7 +4,7 @@
 
  - JSON 
  - posting data using fetch 
- - Localstorage
+ - Localstorage & sessionstorage 
 
 ### Afternoon 13:00 - 16:15
 
