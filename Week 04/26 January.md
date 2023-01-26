@@ -20,3 +20,5 @@
 
 
 ### Recording
+[Recording](https://us02web.zoom.us/rec/share/uppDbuSsSDMIX1CbYci-1S6qsqn_6bCVkUXQf6ILxV14aNbN_G-okjf5Rx1jrr9G.Djqvarkr5l3xZ9_m)
+Passcode: *1TMtkT@
