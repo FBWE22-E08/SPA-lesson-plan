@@ -19,3 +19,5 @@
 
 
 ### Recording
+https://us02web.zoom.us/rec/share/3PfZ3tj9X5YpX9ELA2HVvYW35doUI5MD6iOq22n7IluqovW9YjuhB9AHDGKckD7d.6S5VbaDC8DUWIM1O?startTime=1674634141000
+Passcode: ^S8.tpP8
