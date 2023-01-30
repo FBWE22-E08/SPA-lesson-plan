@@ -3,7 +3,7 @@
 ### Morning 09:00 - 12:00
  
  - Intro to JSON
- - try catch 
+ - GET requests to a 3rd party API
  - recap promises & async await
 
 
