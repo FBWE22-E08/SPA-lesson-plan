@@ -9,7 +9,7 @@
 
 ### Afternoon 13:00 - 16:15
 
-
+[exercise](https://classroom.github.com/a/yLuidqn3)
 
 ### Resources
 
