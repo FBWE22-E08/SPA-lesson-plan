@@ -13,6 +13,8 @@
 
 ### Resources
 
-
+- [how the web works](https://davisgitonga.dev/blog/request-response-cycle)
+- [json](https://www.w3schools.com/js/js_json_intro.asp)
+- [fetch](https://javascript.info/fetch)
 
 ### Recording
