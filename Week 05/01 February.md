@@ -11,7 +11,11 @@
 
 
 ### Resources
-
+ - [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+ - [SessionStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage)
+ - [JSON Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+ - [JSON parse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
+ - [JSON stringify](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
 
 
 ### Recording
