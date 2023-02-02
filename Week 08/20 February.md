@@ -5,8 +5,7 @@
   - Unmounted component errors
   - Avoiding infinite loops
   - Deprecated methods and UNSAFE
-
-
+- Additional hooks - Unique IDs with `useId`
 ### Afternoon 13:00 - 16:15
 
 
