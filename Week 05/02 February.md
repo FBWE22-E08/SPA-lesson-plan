@@ -4,7 +4,6 @@
  
 - Recap moment
 - Overview topics
-- 
 
 ### Afternoon 13:00 - 16:15
 
