@@ -2,7 +2,10 @@
 
 ### Morning 09:00 - 12:00
  
-
+ - Boilerplate 
+ - What is Single page app
+ - project structure 
+ - ...
 
 ### Afternoon 13:00 - 16:15
 
