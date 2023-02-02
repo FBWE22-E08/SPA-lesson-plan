@@ -2,11 +2,13 @@
 
 ### Morning 09:00 - 12:00
  
- - SPA Assement I
+- Recap moment
+- Overview topics
+- 
 
 ### Afternoon 13:00 - 16:15
 
-
+ - SPA Assement I
 
 ### Resources
 
