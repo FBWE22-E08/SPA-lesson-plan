@@ -7,7 +7,7 @@
 
 ### Afternoon 13:00 - 16:15
 
- - SPA Assement I
+ - SPA Assessment I
 
 ### Resources
 
