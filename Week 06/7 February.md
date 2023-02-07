@@ -6,10 +6,11 @@
 	- Thinking in components
 	- Difference between Class & Functional Components.  
   - Nesting components 
+  - props
 
 ### Afternoon 13:00 - 16:15
 
-
+[exercise](https://classroom.github.com/a/eDTcFGDC)
 
 ### Resources
 
