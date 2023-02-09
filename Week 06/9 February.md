@@ -6,7 +6,6 @@
    - Accepting props
    - Passing props
    - initializing and updating states with useState
-   - Using reducer of type with useReducer
    - Lazy initialization
 
 ### Afternoon 13:00 - 16:15
