@@ -5,9 +5,7 @@
      - Controlled components: react state as the single source of truth
      - Controlling the value of inputs
      - Handling multiple inputs with one `onChange` handler
-     - Submitting forms: making API calls on submit with data from state
      - Controlled Component
-     - Mutable ref objects
 
 
 ### Afternoon 13:00 - 16:15
