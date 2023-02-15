@@ -14,6 +14,7 @@
 
 ### Resources
 - [Live coding](https://github.com/FBWE22-E08/SPA-Lessons/tree/main/2%2015.02%20example-use-effect)
+- [Slides](https://docs.google.com/presentation/d/15znWgS1OuIEAHsia-RejhtT9GroIQH_pgZCezeHcc94/edit#slide=id.g20882762794_0_220)
 
 
 
