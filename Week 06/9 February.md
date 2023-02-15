@@ -13,7 +13,7 @@
 
 
 ### Resources
-
+- [Livecoding](https://github.com/FBWE22-E08/SPA-Lessons/tree/main/2%2009.02%20state%20and%20props/example-state-props)
 
 
 ### Recording
