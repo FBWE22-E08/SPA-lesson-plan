@@ -13,7 +13,7 @@
 
 
 ### Resources
-
+- [Live coding](https://github.com/FBWE22-E08/SPA-Lessons/tree/main/2%2015.02%20example-use-effect)
 
 
 ### Recording
