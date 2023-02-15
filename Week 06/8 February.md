@@ -14,6 +14,7 @@
 
 ### Resources
 
+- [Slides events](https://docs.google.com/presentation/d/1kZJoggqQp26eXBA86LklyumhPufmB4XY9dF71j6l4bA/edit?usp=sharing)
 
 
 ### Recording
