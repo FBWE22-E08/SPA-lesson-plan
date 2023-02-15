@@ -15,6 +15,7 @@
 ### Resources
 
 - [Slides events](https://docs.google.com/presentation/d/1kZJoggqQp26eXBA86LklyumhPufmB4XY9dF71j6l4bA/edit?usp=sharing)
+- [Livecoding](https://github.com/FBWE22-E08/SPA-Lessons/tree/main/2%2008.02%20state-events-example/state-events-example)
 
 
 ### Recording
