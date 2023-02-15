@@ -19,3 +19,4 @@
 
 
 ### Recording
+[link](https://us02web.zoom.us/rec/share/wqGyYABRH9OzmTs8Gyb3FnlhwKDo3gohQ-J8XUZtlWVytCkdmyJ1VQvjfKqsovcX.Kscvb0681WkIGIl1)
