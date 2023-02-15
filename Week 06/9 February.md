@@ -17,3 +17,5 @@
 
 
 ### Recording
+
+- [Recording](https://us02web.zoom.us/rec/share/AjLErLTgMzRLvXgpXKynjSc5fEOUWFMRCNoMC7hTFniezoR7p6ouS1tKKww77PCq.nWPWkz2yqSjDTH-V?startTime=1675930075000)
