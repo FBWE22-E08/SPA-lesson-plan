@@ -1,7 +1,7 @@
 # Tuesday 21st February
 
 ### Morning 09:00 - 12:00
-- Route Matching Components: Our first routes
+- Route Matching Components:
 	- Conditionally render according to URL: the `<Route>` component
 	- Choosing only one route to render: `<Switch>`
 	- Pitfalls: Order paths in `<Switch>`, Rendering exact paths with `exact`
