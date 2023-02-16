@@ -14,3 +14,5 @@
 
 
 ### Recording
+- [Recording](https://us02web.zoom.us/rec/share/uG8D1oD38sfcrFL6rhzyPU098Tx0faWicc9elAWBzImLBHXSMmK-j3lQazpQKjkT.vxfVI3QcRuBT9yYO) 
+- Passcode: @7z&zjFE
