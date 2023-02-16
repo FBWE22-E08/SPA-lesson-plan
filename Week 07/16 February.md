@@ -11,7 +11,7 @@
 
 ### Resources
 
-
+- [Livecoding](https://github.com/FBWE22-E08/SPA-Lessons/tree/main/2%2016.02%20use-case-fetch-example/use-case-fetch-example)
 
 ### Recording
 - [Recording](https://us02web.zoom.us/rec/share/uG8D1oD38sfcrFL6rhzyPU098Tx0faWicc9elAWBzImLBHXSMmK-j3lQazpQKjkT.vxfVI3QcRuBT9yYO) 
