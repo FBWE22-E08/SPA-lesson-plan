@@ -21,3 +21,5 @@
 
 ### Recording
 - [Recording](https://us02web.zoom.us/rec/share/3pv9veYcSUylVhDmfPBa1GQNdtAibsYtidZ7vzekVOi5NXgM7mLXPgEbS0Ead2Lg.NtRWaCFJ8y80XNeh)
+- Passcode: $Ssis9^1
+
