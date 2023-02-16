@@ -1,8 +1,8 @@
 # Monday 20th February
 
 ### Morning 09:00 - 12:00
-- Introduction
-	- Routing in a Single Page Application with React Router
+- Recap + routing in react:
+	- React-router-dom
 - Route Components: Setting up react-router-dom
 	- Brief overview: The Browser History API 
 	- Wrapping our app with a `<BrowserRouter>` container component
