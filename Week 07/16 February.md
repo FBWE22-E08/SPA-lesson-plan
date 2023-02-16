@@ -7,7 +7,7 @@
 
 ### Afternoon 13:00 - 16:15
 
-
+- Assignment fetching data & conditionally rendering spinner.
 
 ### Resources
 
