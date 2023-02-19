@@ -4,7 +4,6 @@
 - Recap + routing in react:
 	- React router
 - Route Components: Setting up react-router-dom
-	- Brief overview: The Browser History API 
 	- Wrapping our app with a `<BrowserRouter>` container component
 	- `<BrowserRouter>` vs. `<HashRouter>`: when to use"
 - Route Matching Components:
