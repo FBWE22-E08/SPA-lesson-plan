@@ -1,16 +1,12 @@
 # Tuesday 21st February
 
 ### Morning 09:00 - 12:00
-- Route Matching Components:
-	- Conditionally render according to URL: the `<Route>` component
+	
 	- Choosing only one route to render: `<Switch>`
 	- Pitfalls: Order paths in `<Switch>`, Rendering exact paths with `exact`
 	- Project Organization III: The `views` folder for page components
-	
-- Building Navigation
-	- Using `<Link>` to navigate to a path
-	- Creating a Navigation bar with `<NavLink activeClassName=""[...]"">`
-	- Library clash: Using reactstrap `<NavLink>` with react-router `<NavLink>`
+	- navigation using useNavigate()
+	- passing state to <Link>, <NavLink> and useNavigate(), and recieving this state in the target route.
   https://github.com/reactstrap/reactstrap/issues/1285#issuecomment-446592497
 	- Redirecting components: `<Redirect>`"
 - Route Parameters
