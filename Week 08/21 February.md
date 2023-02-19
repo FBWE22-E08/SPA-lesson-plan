@@ -5,8 +5,7 @@
 - Choosing only one route to render: `<Switch>`
 - Pitfalls: Order paths in `<Switch>`, Rendering exact paths with `exact`
 - Project Organization III: The `views` folder for page components
-- navigation using useNavigate()
-        - hi
+- navigation using useNavigate() <Br/>
         - passing state to <Link>, <NavLink> and useNavigate(), and recieving this state in the target route.
   https://github.com/reactstrap/reactstrap/issues/1285#issuecomment-446592497
 - Redirecting components: `<Redirect>`"
