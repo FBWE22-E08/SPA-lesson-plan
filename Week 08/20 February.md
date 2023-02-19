@@ -11,6 +11,9 @@
 	- Conditionally render according to URL: the `<Route>` component
 	- Leaving out the path: Rendering 404 components"
 - Link, NavLink to navigate to our routes
+- Choosing only one route to render: `<Switch>`
+- Pitfalls: Order paths in `<Switch>`, Rendering exact paths with `exact`
+- Project Organization III: The `views` folder for page components
 
 ### Afternoon 13:00 - 16:15
 
