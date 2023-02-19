@@ -2,7 +2,7 @@
 
 ### Morning 09:00 - 12:00
 - Recap + routing in react:
-	- React-router-dom
+	- React router
 - Route Components: Setting up react-router-dom
 	- Brief overview: The Browser History API 
 	- Wrapping our app with a `<BrowserRouter>` container component
