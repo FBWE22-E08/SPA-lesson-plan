@@ -9,6 +9,7 @@
 	- `<BrowserRouter>` vs. `<HashRouter>`: when to use"
 - Route Matching Components:
 	- Conditionally render according to URL: the `<Route>` component
+	- Leaving out the path: Rendering 404 components"
 - Link, NavLink to navigate to our routes
 
 ### Afternoon 13:00 - 16:15
