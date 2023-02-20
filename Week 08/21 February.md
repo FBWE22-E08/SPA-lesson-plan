@@ -7,7 +7,7 @@
 - Redirecting components: `<Redirect>` vs `<Navigate>`
 - Route Parameters
 	- Creating dynamic route paths with route params: the `/:<param>` notation
-	- Route props: Accessing route params with the `match.params` prop"
+	- Route props: Accessing route params with the `useParams()`
 
 ### Afternoon 13:00 - 16:15
 
