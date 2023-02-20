@@ -2,7 +2,7 @@
 
 ### Morning 09:00 - 12:00
 	
-- Redirecting components: `<Redirect>` vs `<Navigate>`
+- Redirecting components: using `<Navigate>`
 - Route Parameters
 	- Creating dynamic route paths with route params: the `/:<param>` notation
 	- Route props: Accessing route params with the `useParams()`
