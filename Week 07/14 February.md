@@ -16,4 +16,4 @@
 
 
 ### Recording
-[Recording](https://us02web.zoom.us/rec/share/NfEGZ0u9ZeDK_nmHITADmxhMqr9hbTrMZSdEwo1MbIb3PZwivrp8Ot0q2bTOg4eE.76slMy8enR9X503f)
+[Recording Link](https://us02web.zoom.us/rec/share/NfEGZ0u9ZeDK_nmHITADmxhMqr9hbTrMZSdEwo1MbIb3PZwivrp8Ot0q2bTOg4eE.76slMy8enR9X503f)
