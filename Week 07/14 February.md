@@ -16,5 +16,4 @@
 
 
 ### Recording
-[Recording](https://us02web.zoom.us/rec/share/2pwzruoJQs7CxGDyaY4teUvwUpUmMoVN3HbDyuAqNiiERS0w9sVALCM0BlAdwMyZ.XQL94QP7nTmw4-pw)
-(Passcode: 5g&&Lz+i)
+[Recording](https://us02web.zoom.us/rec/share/NfEGZ0u9ZeDK_nmHITADmxhMqr9hbTrMZSdEwo1MbIb3PZwivrp8Ot0q2bTOg4eE.76slMy8enR9X503f)
