@@ -17,3 +17,5 @@
 
 
 ### Recording
+[Recording](https://us02web.zoom.us/rec/share/UfyatYHwXJ78Feltbo_aDA_VBlcy_pyX-5cvE5spFbNbPfsxLDL1akquO1_Hd7ie.1RNb30hYuV5KLns7)
+- Passcode: 2EnTA#$w
