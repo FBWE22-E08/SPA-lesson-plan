@@ -13,11 +13,10 @@
 
 ### Resources
 - [Live coding](https://github.com/FBWE22-E08/SPA-Lessons/tree/main/2%2022.02%20context-example)
-
 - [Slides](https://docs.google.com/presentation/d/1x0UH0UgvYUw9YJhFiNGZZ3mEX6RJiscFSsdEScx-KG0/edit?usp=sharing)
 
 
 ### Recording
 
--[Recording]()
-- Passcode:
+-[Recording](https://us02web.zoom.us/rec/share/nlk7nMXkjqlm0dGZwQZUF6hnfCPspZdH3zjcgz8S8wYpszWvFMZ_v4OofNMKA_uk.yoCeRUJprC_ZWOCu?startTime=1677053338000)
+- Passcode:7sUS%exq
