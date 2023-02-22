@@ -12,7 +12,12 @@
 
 
 ### Resources
+- [Live coding](https://github.com/FBWE22-E08/SPA-Lessons/tree/main/2%2022.02%20context-example)
 
+- [Slides]()
 
 
 ### Recording
+
+-[Recording]()
+- Passcode:
