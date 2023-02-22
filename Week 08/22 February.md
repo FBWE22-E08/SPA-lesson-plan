@@ -14,7 +14,7 @@
 ### Resources
 - [Live coding](https://github.com/FBWE22-E08/SPA-Lessons/tree/main/2%2022.02%20context-example)
 
-- [Slides]()
+- [Slides](https://docs.google.com/presentation/d/1x0UH0UgvYUw9YJhFiNGZZ3mEX6RJiscFSsdEScx-KG0/edit?usp=sharing)
 
 
 ### Recording
