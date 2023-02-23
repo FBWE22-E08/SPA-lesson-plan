@@ -11,6 +11,7 @@
 
 ### Resources
 
+- [Live coding](https://github.com/FBWE22-E08/SPA-Lessons/tree/main/2%2023.02%20context-example-use-case/context-example-use-case)
 
 
 ### Recording
