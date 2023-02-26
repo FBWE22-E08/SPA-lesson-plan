@@ -14,3 +14,4 @@
 
 
 ### Recording
+[link](https://us02web.zoom.us/rec/share/AXrdkmZdGem1HH9PJpodMAdv5JgXqdqwGiEt8hQHwp8R2k5NQN9M4649RaMuq5fz.mp4xD0UnMYd6XvHl)
