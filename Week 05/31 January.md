@@ -18,3 +18,4 @@
 - [fetch](https://javascript.info/fetch)
 
 ### Recording
+[link](https://us02web.zoom.us/rec/share/iSDiVzXhLIG3K5GqxcOjsoM9FZgwvpuaSkFx-kOSUHupafdfgejizk4dD3fLggsM.tuFZO3wOq-3ceite)
