@@ -21,3 +21,4 @@
 [error handling in JS with try catch](https://javascript.info/try-catch)
 
 ### Recording
+[link](https://us02web.zoom.us/rec/share/7w4506-M5TuioXnG7nsqvmjU7VtYRpRAiCPXvYrQAbrFNfnRuAdwP7l6CSRX7oM7.a2cs5dFANV-KQAED)
