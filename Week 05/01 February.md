@@ -19,3 +19,5 @@
 
 
 ### Recording
+[link](https://us02web.zoom.us/rec/share/nIhI6rY_sLt5ku_teZaVbSerzec8yqyr0_7Kpv3QpoM6Hfx-JAML2Sh8Zlgmromm.CcyTKtJxKz-Aqq0n 
+Passcode: nTZP@$5=)
