@@ -15,4 +15,4 @@
 
 
 ### Recording
-[link](https://us02web.zoom.us/rec/share/cLYva8JBJj-gxeXUuIaDV6HIoPUn-KiQHha7dpK_uI_TsMmc4FD-OU-GYsfDcPbO.PUabf0w_f_cELdlW)
+[LINK](https://us02web.zoom.us/rec/share/cLYva8JBJj-gxeXUuIaDV6HIoPUn-KiQHha7dpK_uI_TsMmc4FD-OU-GYsfDcPbO.PUabf0w_f_cELdlW)
