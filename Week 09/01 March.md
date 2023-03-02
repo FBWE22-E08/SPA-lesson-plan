@@ -13,6 +13,7 @@
 
 ### Resources
 
+[Slides](https://docs.google.com/presentation/d/1xWJPY-261qo6FtcFMiBDDsK5WbmppUB42lSwzfdsnBw/edit?usp=sharing)
 
 
 ### Recording
