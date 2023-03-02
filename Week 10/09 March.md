@@ -1,7 +1,9 @@
 # Thursday 9th March
 
 ### Morning 09:00 - 12:00
- react project? recap III?
+ 
+ react project?
+ - recap III?: useContext & useReducer 
 
 ### Afternoon 13:00 - 16:15
 
