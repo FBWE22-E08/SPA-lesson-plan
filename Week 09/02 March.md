@@ -16,3 +16,5 @@
 + [Slides](https://docs.google.com/presentation/d/1VkVN9Mgn57ik2n6TiVATw9Z6HM2hY0P9fEy9U8uf_k4/edit?usp=sharing)
 
 ### Recording
++ [Recording](https://us02web.zoom.us/rec/share/ni5I7ki3Xb3jCEqnrdFHTJLO7Wt_HIZughr25D2sdEt2Q2YwJvMg3q8mJLz85m3a.bqt0N1qDL_1egXt1) 
+   Passcode: 9x3T^?H@
