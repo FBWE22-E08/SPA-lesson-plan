@@ -2,7 +2,7 @@
 
 ### Morning 09:00 - 12:00
 
-  recap useReducer 
+ - recap useReducer 
     - what is? 
     - How does it work? 
     - Use case example
