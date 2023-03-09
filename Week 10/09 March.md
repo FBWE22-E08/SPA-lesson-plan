@@ -2,7 +2,7 @@
 
 ### Morning 09:00 - 12:00
  
- - react project (intro) 
+ - React project (intro) 
  - Moment of feedback
  - recap III: useContext & useReducer 
 
