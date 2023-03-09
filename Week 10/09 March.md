@@ -4,7 +4,7 @@
  
  - React project (intro) 
  - Moment of feedback
- - recap III: useContext & useReducer 
+ - recap IV: useContext & useReducer 
 
 ### Afternoon 13:00 - 16:15
 
